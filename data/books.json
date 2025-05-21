@@ -1,74 +1,76 @@
 [
     {
         "kind": "books#volume",
-        "id": "nlk_EAAAQBAJ",
-        "etag": "4bZUXVJzFzI",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/nlk_EAAAQBAJ",
+        "id": "b3sPBQAAQBAJ",
+        "etag": "ni5iAc/rSd4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/b3sPBQAAQBAJ",
         "volumeInfo": {
-            "title": "Harry's Mad",
+            "title": "The Enchanted Charms (Geronimo Stilton and the Kingdom of Fantasy #7)",
             "authors": [
-                "Dick King-Smith"
+                "Geronimo Stilton"
             ],
-            "publisher": "Penguin UK",
-            "publishedDate": "2021-09-30",
-            "description": "From the king of animal stories for children and one of the national's most beloved writers, a very funny and heart-warming story. Harry isn't very pleased when he inherits a parrot from Great-Uncle George, but Maddison is no ordinary parrot. Not only can he talk, but you can have conversations with him and he and Harry quickly become great friends - but then Maddison is stolen ... Will he and Harry ever be reunited?",
+            "publisher": "Scholastic Inc.",
+            "publishedDate": "2015-06-30",
+            "description": "Geronimo's seventh quest in the Kingdom of Fantasy! I, Geronimo Stilton, was so excited to find myself in the Kingdom of Fantasy for a seventh time. Blossom, Queen of the Fairies, needed me to find the seven enchanted charms before the Wizard of the Black Pearl could get to them!Seven guardians across the realm protected each charm. When combined, the charms would bring enormouse power -- which the evil wizard was after. Squeak! Could I survive the dangers of new kingdoms and mysterious creatures to find the charms and save the Kingdom of Fantasy? I was up for the challenge!",
             "industryIdentifiers": [
                 {
                     "type": "ISBN_13",
-                    "identifier": "9780241567562"
+                    "identifier": "9780545747677"
                 },
                 {
                     "type": "ISBN_10",
-                    "identifier": "0241567564"
+                    "identifier": "0545747678"
                 }
             ],
             "readingModes": {
                 "text": true,
-                "image": false
+                "image": true
             },
-            "pageCount": 87,
+            "pageCount": 324,
             "printType": "BOOK",
             "categories": [
                 "Juvenile Fiction"
             ],
+            "averageRating": 4.5,
+            "ratingsCount": 6,
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": true,
-            "contentVersion": "1.2.2.0.preview.2",
+            "contentVersion": "1.11.9.0.preview.3",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=nlk_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=nlk_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=b3sPBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=b3sPBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=nlk_EAAAQBAJ&pg=PT46&dq=harry&hl=&cd=5&source=gbs_api",
-            "infoLink": "https://play.google.com/store/books/details?id=nlk_EAAAQBAJ&source=gbs_api",
-            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nlk_EAAAQBAJ"
+            "previewLink": "http://books.google.co.in/books?id=b3sPBQAAQBAJ&printsec=frontcover&dq=geronimo&hl=&cd=8&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=b3sPBQAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b3sPBQAAQBAJ"
         },
         "saleInfo": {
             "country": "IN",
             "saleability": "FOR_SALE",
             "isEbook": true,
             "listPrice": {
-                "amount": 309.75,
+                "amount": 2016.24,
                 "currencyCode": "INR"
             },
             "retailPrice": {
-                "amount": 216.82,
+                "amount": 2016.24,
                 "currencyCode": "INR"
             },
-            "buyLink": "https://play.google.com/store/books/details?id=nlk_EAAAQBAJ&rdid=book-nlk_EAAAQBAJ&rdot=1&source=gbs_api",
+            "buyLink": "https://play.google.com/store/books/details?id=b3sPBQAAQBAJ&rdid=book-b3sPBQAAQBAJ&rdot=1&source=gbs_api",
             "offers": [
                 {
                     "finskyOfferType": 1,
                     "listPrice": {
-                        "amountInMicros": 309750000,
+                        "amountInMicros": 2016240000,
                         "currencyCode": "INR"
                     },
                     "retailPrice": {
-                        "amountInMicros": 216820000,
+                        "amountInMicros": 2016240000,
                         "currencyCode": "INR"
                     }
                 }
@@ -82,66 +84,71 @@
             "textToSpeechPermission": "ALLOWED",
             "epub": {
                 "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Harry_s_Mad-sample-epub.acsm?id=nlk_EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Enchanted_Charms_Geronimo_Stilton_an-sample-epub.acsm?id=b3sPBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
             },
             "pdf": {
-                "isAvailable": false
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Enchanted_Charms_Geronimo_Stilton_an-sample-pdf.acsm?id=b3sPBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=nlk_EAAAQBAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=b3sPBQAAQBAJ&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "... <b>Harry</b> asked . &#39; Why , the memory of Lord Nelson , <b>Harry</b> boy , your greatest sailor . George was a great admirer of Lord Nelson , had a whole shelf full of biographies of him . And we parrots have always been keen on seafaring men&nbsp;..."
+            "textSnippet": "Geronimo&#39;s seventh quest in the Kingdom of Fantasy! I, Geronimo Stilton, was so excited to find myself in the Kingdom of Fantasy for a seventh time."
         }
     },
     {
         "kind": "books#volume",
-        "id": "TKFRe-2HSNYC",
-        "etag": "8+neAOncyoM",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/TKFRe-2HSNYC",
+        "id": "GAqqNvA_HSYC",
+        "etag": "Him4F4TUvwY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/GAqqNvA_HSYC",
         "volumeInfo": {
-            "title": "Harry's War",
+            "title": "Mighty Mount Kilimanjaro",
+            "subtitle": "",
             "authors": [
-                "D. Edward Bradley"
+                "Geronimo Stilton",
+                "Silvia Bigolin"
             ],
-            "publisher": "Watchmaker Publishing",
-            "publishedDate": "2003",
-            "description": "In 1941 in war-torn England, thirteen-year-old Harry Lockwood steps off the train and embarks on his new life at Markham College, a boys' boarding school near London. It's a story of war and lost innocence, though also one of loyalty and joy.",
+            "publisher": "Scholastic Inc.",
+            "publishedDate": "2010",
+            "description": "Reading level: RL 3 ; Ages: 7-10.",
             "industryIdentifiers": [
                 {
-                    "type": "ISBN_10",
-                    "identifier": "1929148224"
+                    "type": "ISBN_13",
+                    "identifier": "9780545103718"
                 },
                 {
-                    "type": "ISBN_13",
-                    "identifier": "9781929148226"
+                    "type": "ISBN_10",
+                    "identifier": "0545103711"
                 }
             ],
             "readingModes": {
                 "text": false,
                 "image": true
             },
-            "pageCount": 276,
+            "pageCount": 130,
             "printType": "BOOK",
             "categories": [
-                "Fiction"
+                "Juvenile Fiction"
             ],
+            "averageRating": 4,
+            "ratingsCount": 4,
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
-            "contentVersion": "0.10.6.0.preview.1",
+            "contentVersion": "0.2.2.0.preview.1",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=TKFRe-2HSNYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=TKFRe-2HSNYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=GAqqNvA_HSYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=GAqqNvA_HSYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=TKFRe-2HSNYC&pg=PA54&dq=harry&hl=&cd=4&source=gbs_api",
-            "infoLink": "http://books.google.co.in/books?id=TKFRe-2HSNYC&dq=harry&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_s_War.html?hl=&id=TKFRe-2HSNYC"
+            "previewLink": "http://books.google.co.in/books?id=GAqqNvA_HSYC&printsec=frontcover&dq=geronimo&hl=&cd=2&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=GAqqNvA_HSYC&dq=geronimo&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Mighty_Mount_Kilimanjaro.html?hl=&id=GAqqNvA_HSYC"
         },
         "saleInfo": {
             "country": "IN",
@@ -159,68 +166,90 @@
             },
             "pdf": {
                 "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Harry_s_War-sample-pdf.acsm?id=TKFRe-2HSNYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                "acsTokenLink": "http://books.google.co.in/books/download/Mighty_Mount_Kilimanjaro-sample-pdf.acsm?id=GAqqNvA_HSYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=TKFRe-2HSNYC&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=GAqqNvA_HSYC&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "... <b>Harry</b> had no chance to discuss the bomb in private until they joined the Captain later that evening . &quot; I think we should have reported it , &quot; said <b>Harry</b> , closing the study door . &quot; We could get into a lot of trouble . &quot; &quot; But Woody&nbsp;..."
+            "textSnippet": "Reading level: RL 3 ; Ages: 7-10."
         }
     },
     {
         "kind": "books#volume",
-        "id": "49xqDwAAQBAJ",
-        "etag": "cft6NwjNFCg",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/49xqDwAAQBAJ",
+        "id": "C-MQDAAAQBAJ",
+        "etag": "ZAPseisuoSo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/C-MQDAAAQBAJ",
         "volumeInfo": {
-            "title": "Harry and Meghan: The Wedding Coloring Book",
+            "title": "Magical Mission (Geronimo Stilton #64)",
             "authors": [
-                "Teresa Goodridge"
+                "Geronimo Stilton"
             ],
-            "publisher": "Courier Dover Publications",
-            "publishedDate": "2018-10-17",
-            "description": "Celebrate the wedding of Britain's Prince Harry to American actress Meghan Markle with 30 illustrations of the couple exchanging vows, waving to well-wishers, riding in a carriage procession, and more.",
+            "publisher": "Scholastic Inc.",
+            "publishedDate": "2016-10-11",
+            "description": "When you're with Geronimo Stilton, it's always a fabumouse adventure! I was traveling to London, England on a secret mission! I had to investigate some strange occurrences -- someone was trying to get their paws on the crown jewels! Trap came along, too, to compete in a big magic show. And before I could solve my mystery, Trap needed my help... to perform an impossible magic trick. Could I do it all? Squeak!",
             "industryIdentifiers": [
                 {
                     "type": "ISBN_13",
-                    "identifier": "9780486828565"
+                    "identifier": "9781338035483"
                 },
                 {
                     "type": "ISBN_10",
-                    "identifier": "0486828565"
+                    "identifier": "1338035487"
                 }
             ],
             "readingModes": {
-                "text": false,
+                "text": true,
                 "image": true
             },
-            "pageCount": 67,
+            "pageCount": 132,
             "printType": "BOOK",
             "categories": [
-                "Antiques & Collectibles"
+                "Juvenile Fiction"
             ],
             "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.4.0.0.preview.1",
+            "allowAnonLogging": true,
+            "contentVersion": "1.8.6.0.preview.3",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=49xqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=49xqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=C-MQDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=C-MQDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=49xqDwAAQBAJ&printsec=frontcover&dq=harry&hl=&cd=3&source=gbs_api",
-            "infoLink": "http://books.google.co.in/books?id=49xqDwAAQBAJ&dq=harry&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_and_Meghan_The_Wedding_Coloring_Bo.html?hl=&id=49xqDwAAQBAJ"
+            "previewLink": "http://books.google.co.in/books?id=C-MQDAAAQBAJ&printsec=frontcover&dq=geronimo&hl=&cd=11&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=C-MQDAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C-MQDAAAQBAJ"
         },
         "saleInfo": {
             "country": "IN",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 805.98,
+                "currencyCode": "INR"
+            },
+            "retailPrice": {
+                "amount": 402.99,
+                "currencyCode": "INR"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=C-MQDAAAQBAJ&rdid=book-C-MQDAAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 805980000,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 402990000,
+                        "currencyCode": "INR"
+                    }
+                }
+            ]
         },
         "accessInfo": {
             "country": "IN",
@@ -229,41 +258,43 @@
             "publicDomain": false,
             "textToSpeechPermission": "ALLOWED",
             "epub": {
-                "isAvailable": false
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/Magical_Mission_Geronimo_Stilton_64-sample-epub.acsm?id=C-MQDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
             },
             "pdf": {
                 "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Harry_and_Meghan_The_Wedding_Coloring_Bo-sample-pdf.acsm?id=49xqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                "acsTokenLink": "http://books.google.co.in/books/download/Magical_Mission_Geronimo_Stilton_64-sample-pdf.acsm?id=C-MQDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=49xqDwAAQBAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=C-MQDAAAQBAJ&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "Celebrate the wedding of Britain&#39;s Prince Harry to American actress Meghan Markle with 30 illustrations of the couple exchanging vows, waving to well-wishers, riding in a carriage procession, and more."
+            "textSnippet": "When you&#39;re with Geronimo Stilton, it&#39;s always a fabumouse adventure!"
         }
     },
     {
         "kind": "books#volume",
-        "id": "raTsvgEACAAJ",
-        "etag": "OMQXv9ZpVPU",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/raTsvgEACAAJ",
+        "id": "A6A8MgAACAAJ",
+        "etag": "tXPx0p8666I",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/A6A8MgAACAAJ",
         "volumeInfo": {
-            "title": "Harry",
-            "subtitle": "Conversations with the Prince",
+            "title": "Field Trip to Niagara Falls",
+            "subtitle": "",
             "authors": [
-                "Angela Levin"
+                "Geronimo Stilton"
             ],
-            "publishedDate": "2019",
-            "description": "Includes exclusive access and interviews with Prince Harry - now updated to include the first year of his marriage to Meghan Markle.",
+            "publisher": "Perfection Learning",
+            "publishedDate": "2006-03",
+            "description": "Holey cheese, what an adventure! I was off to Niagara Falls with my nephew Benjamin's class. It was a beautiful place -- truly one of the most amazing sights I'd ever seen. But unfortunately, I was surrounded by mischievous young mouselets who were determined send me over the Falls in a barrel! Oh, would I ever make it back to Mouse Island alive?",
             "industryIdentifiers": [
                 {
                     "type": "ISBN_10",
-                    "identifier": "1789460298"
+                    "identifier": "0756969417"
                 },
                 {
                     "type": "ISBN_13",
-                    "identifier": "9781789460292"
+                    "identifier": "9780756969417"
                 }
             ],
             "readingModes": {
@@ -273,7 +304,7 @@
             "pageCount": 0,
             "printType": "BOOK",
             "categories": [
-                "Biography & Autobiography"
+                "Animals"
             ],
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
@@ -283,13 +314,13 @@
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=raTsvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=raTsvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=A6A8MgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=A6A8MgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=raTsvgEACAAJ&dq=harry&hl=&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.co.in/books?id=raTsvgEACAAJ&dq=harry&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Harry.html?hl=&id=raTsvgEACAAJ"
+            "previewLink": "http://books.google.co.in/books?id=A6A8MgAACAAJ&dq=geronimo&hl=&cd=10&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=A6A8MgAACAAJ&dq=geronimo&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Field_Trip_to_Niagara_Falls.html?hl=&id=A6A8MgAACAAJ"
         },
         "saleInfo": {
             "country": "IN",
@@ -308,342 +339,12 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=raTsvgEACAAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=A6A8MgAACAAJ&hl=&source=gbs_api",
             "accessViewStatus": "NONE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "Includes exclusive access and interviews with Prince Harry - now updated to include the first year of his marriage to Meghan Markle."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "9MMJ8X5dPHQC",
-        "etag": "xhwUN6TBpQ8",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/9MMJ8X5dPHQC",
-        "volumeInfo": {
-            "title": "The Rough Guide to the Royals",
-            "authors": [
-                "Rough Guides"
-            ],
-            "publisher": "Penguin",
-            "publishedDate": "2012-04-05",
-            "description": "Britain's royals are the official face of the state and the center of a worldwide media circus. This entertaining Rough Guide to the Royals explores the paradox of one of the world's oldest monarchies. It casts a quizzical eye over the current royal family, from former Olympic horse rider Anne and industry ambassador Andrew to current favorites William and Kate. It answers such burning questions as what they do, where they get their money from, how fundamentally British are they, and just who is twelfth in the line to the throne. (One-year-old Savannah Phillips is the answer.) This book looks at the most extravagant royal ceremonies and the most controversial figures, from wife-murderer Henry VIII to the scandalous Caroline of Brunswick (who was banned from her husband's coronation but turned up anyway). The best and the worst monarchs are reassessed, with investigations into how the likes of alleged nephew-killer and hunchback Richard III achieved their villainous reputations. The image of the monarchy is also examined-whether it's in commemorative ceramics, respectful movies such as The King's Speech, or more critical fare.",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9781409360100"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "1409360105"
-                }
-            ],
-            "readingModes": {
-                "text": true,
-                "image": false
-            },
-            "pageCount": 418,
-            "printType": "BOOK",
-            "categories": [
-                "Biography & Autobiography"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "2.3.4.0.preview.2",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=9MMJ8X5dPHQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=9MMJ8X5dPHQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=9MMJ8X5dPHQC&dq=harry&hl=&cd=10&source=gbs_api",
-            "infoLink": "http://books.google.co.in/books?id=9MMJ8X5dPHQC&dq=harry&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/The_Rough_Guide_to_the_Royals.html?hl=&id=9MMJ8X5dPHQC"
-        },
-        "saleInfo": {
-            "country": "IN",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "IN",
-            "viewability": "NO_PAGES",
-            "embeddable": false,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": true
-            },
-            "pdf": {
-                "isAvailable": true
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=9MMJ8X5dPHQC&hl=&source=gbs_api",
-            "accessViewStatus": "NONE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Britain&#39;s royals are the official face of the state and the center of a worldwide media circus. This entertaining Rough Guide to the Royals explores the paradox of one of the world&#39;s oldest monarchies."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "qnJB9WRfyAwC",
-        "etag": "CNUgQDk+toQ",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/qnJB9WRfyAwC",
-        "volumeInfo": {
-            "title": "Horrible Harry's Secret",
-            "authors": [
-                "Suzy Kline"
-            ],
-            "publisher": "Penguin",
-            "publishedDate": "1998-09-01",
-            "description": "Harry's in love, and his best friend, Doug, is disgusted -- Harry won't even throw snowballs at girls anymore. Will Harry ever go back to being his horrible self?\"Kline captures perfectly the crowd scenes and private moments in the classroom.\"-- Booklist",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9781101076910"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "1101076917"
-                }
-            ],
-            "readingModes": {
-                "text": true,
-                "image": false
-            },
-            "pageCount": 66,
-            "printType": "BOOK",
-            "categories": [
-                "Juvenile Fiction"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": true,
-            "contentVersion": "0.3.5.0.preview.2",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=qnJB9WRfyAwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=qnJB9WRfyAwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=qnJB9WRfyAwC&pg=PA40&dq=harry&hl=&cd=9&source=gbs_api",
-            "infoLink": "https://play.google.com/store/books/details?id=qnJB9WRfyAwC&source=gbs_api",
-            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qnJB9WRfyAwC"
-        },
-        "saleInfo": {
-            "country": "IN",
-            "saleability": "FOR_SALE",
-            "isEbook": true,
-            "listPrice": {
-                "amount": 361.23,
-                "currencyCode": "INR"
-            },
-            "retailPrice": {
-                "amount": 252.86,
-                "currencyCode": "INR"
-            },
-            "buyLink": "https://play.google.com/store/books/details?id=qnJB9WRfyAwC&rdid=book-qnJB9WRfyAwC&rdot=1&source=gbs_api",
-            "offers": [
-                {
-                    "finskyOfferType": 1,
-                    "listPrice": {
-                        "amountInMicros": 361230000,
-                        "currencyCode": "INR"
-                    },
-                    "retailPrice": {
-                        "amountInMicros": 252860000,
-                        "currencyCode": "INR"
-                    }
-                }
-            ]
-        },
-        "accessInfo": {
-            "country": "IN",
-            "viewability": "PARTIAL",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Horrible_Harry_s_Secret-sample-epub.acsm?id=qnJB9WRfyAwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=qnJB9WRfyAwC&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Suzy Kline. <b>Harry</b> the Thief ? Something must have happened to <b>Harry</b> over the weekend . I didn&#39;t know what it was , but it sure made <b>Harry</b> act different . Monday morning , <b>Harry</b> didn&#39;t flash his pearly - whites once ! Not even at Song Lee&nbsp;..."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "KYVRDwAAQBAJ",
-        "etag": "5KeGAeasAec",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/KYVRDwAAQBAJ",
-        "volumeInfo": {
-            "title": "Harry's Lovely Spring Day",
-            "subtitle": "Teaching children the value of kindness.",
-            "authors": [
-                "N.G.K."
-            ],
-            "publisher": "N.G.K. Media",
-            "publishedDate": "2018-03-17",
-            "description": "Book 1 in the worldwide bestselling 'Harry The Happy Mouse' series. A great way to teach children the value of kindness, used in schools around the world! We see the start of the 'Harry The Happy Mouse' series as Harry learns about the value of kindness, and why a small thing for someone could mean something big for someone else. Harry is living in the city when he is helped by a stranger. Harry then decides to find the stranger to thank her. It really does turn out to be a Lovely Spring Day!",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 36,
-            "printType": "BOOK",
-            "categories": [
-                "Juvenile Nonfiction"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": true,
-            "contentVersion": "0.1.1.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=KYVRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=KYVRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=KYVRDwAAQBAJ&pg=PT1&dq=harry&hl=&cd=8&source=gbs_api",
-            "infoLink": "http://books.google.co.in/books?id=KYVRDwAAQBAJ&dq=harry&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_s_Lovely_Spring_Day.html?hl=&id=KYVRDwAAQBAJ"
-        },
-        "saleInfo": {
-            "country": "IN",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "IN",
-            "viewability": "PARTIAL",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Harry_s_Lovely_Spring_Day-sample-pdf.acsm?id=KYVRDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=KYVRDwAAQBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "... <b>Harry</b> The Happy Mouse Series : <b>Harry&#39;s</b> Lovely Spring Day byngk . <b>Harry</b> The Happy Mouse Badraded by Sandle Divend <b>Harry&#39;s</b> Spooky Surprise ! ng.k <b>Harry</b> The Christmas Mouse ngr . <b>Harry&#39;s</b> Lovely Spring Day <b>Harry</b> The Happy Mouse <b>Harry&#39;s</b>&nbsp;..."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "DXqtDwAAQBAJ",
-        "etag": "4WRFzQGv/xw",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/DXqtDwAAQBAJ",
-        "volumeInfo": {
-            "title": "You Are an Artist",
-            "authors": [
-                "Sarah Urist Green"
-            ],
-            "publisher": "Penguin UK",
-            "publishedDate": "2020-04-14",
-            "description": "Where do great artists get their inspiration? And how could they help you make something extraordinary? In You Are an Artist, over fifty artists from around the world share their creative techniques, and give you brilliantly imaginative exercises to inspire you to make your own art. Among other things, you'll invent imaginary friends, construct a landscape, find the quietest place, measure your history and become someone else (or at least try). You don't need special materials or experience. Your only challenge is to create art that reflects the world as you see it. Curator Sarah Urist Green brings together more than 50 assignments gathered from some of the most innovative creators working today, including Sonya Clark, Michelle Grabner, The Guerrilla Girls, Fritz Haeg, Pablo Helguera, Nina Katchadourian, Toyin Ojih Odutola, J. Morgan Puett, Dread Scott, Alec Soth, Gillian Wearing, and many others.",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9780241442920"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "0241442923"
-                }
-            ],
-            "readingModes": {
-                "text": true,
-                "image": false
-            },
-            "pageCount": 286,
-            "printType": "BOOK",
-            "categories": [
-                "Games & Activities"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": true,
-            "contentVersion": "1.3.3.0.preview.2",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=DXqtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=DXqtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=DXqtDwAAQBAJ&printsec=frontcover&dq=art&hl=&cd=1&source=gbs_api",
-            "infoLink": "https://play.google.com/store/books/details?id=DXqtDwAAQBAJ&source=gbs_api",
-            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DXqtDwAAQBAJ"
-        },
-        "saleInfo": {
-            "country": "IN",
-            "saleability": "FOR_SALE",
-            "isEbook": true,
-            "listPrice": {
-                "amount": 972.61,
-                "currencyCode": "INR"
-            },
-            "retailPrice": {
-                "amount": 486.3,
-                "currencyCode": "INR"
-            },
-            "buyLink": "https://play.google.com/store/books/details?id=DXqtDwAAQBAJ&rdid=book-DXqtDwAAQBAJ&rdot=1&source=gbs_api",
-            "offers": [
-                {
-                    "finskyOfferType": 1,
-                    "listPrice": {
-                        "amountInMicros": 972610000,
-                        "currencyCode": "INR"
-                    },
-                    "retailPrice": {
-                        "amountInMicros": 486300000,
-                        "currencyCode": "INR"
-                    }
-                }
-            ]
-        },
-        "accessInfo": {
-            "country": "IN",
-            "viewability": "PARTIAL",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/You_Are_an_Artist-sample-epub.acsm?id=DXqtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=DXqtDwAAQBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "And how could they help you make something extraordinary? In You Are an Artist, over fifty artists from around the world share their creative techniques, and give you brilliantly imaginative exercises to inspire you to make your own art."
+            "textSnippet": "Holey cheese, what an adventure!"
         }
     }
 ]

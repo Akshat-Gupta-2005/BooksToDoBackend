@@ -36,6 +36,23 @@ app.post('/api/books', (req, res) => {
             res.status(201).json(newBook);
         });
     });
+    fs.readFile('./data/booksid.json', 'utf8', (err, data) => {
+        if (err) {
+            console.error(err);
+            res.status(500).send('Error reading file');
+            return;
+        }
+        const books = JSON.parse(data);
+        books.push(newBook.id);
+        fs.writeFile('./data/booksid.json', JSON.stringify(books, null, 4), (err) => {
+            if (err) {
+                console.error(err);
+                res.status(500).send('Error writing file');
+                return;
+            }
+            res.status(201).json(newBook);
+        });
+    });
 });
 
 app.get('/api/books/:id', (req, res) => {
@@ -76,6 +93,24 @@ app.delete('/api/books/:id', (req, res) => {
             res.status(204).send();
         });
     });
+    fs.readFile('./data/booksid.json', 'utf8', (err, data) => {
+        if (err) {
+            console.error(err);
+            res.status(500).send('Error reading file');
+            return;
+        }
+        let books = JSON.parse(data);
+        books = books.filter(b => b !== bookId);
+        fs.writeFile('./data/booksid.json', JSON.stringify(books, null, 4), (err) => {
+            if (err) {
+                console.error(err);
+                res.status(500).send('Error writing file');
+                return;
+            }
+            res.status(204).send();
+        });
+    });
+
 })
 
 app.listen(5000, () => {
