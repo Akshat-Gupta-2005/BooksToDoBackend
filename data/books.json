@@ -1,311 +1,33 @@
 [
     {
         "kind": "books#volume",
-        "id": "b3sPBQAAQBAJ",
-        "etag": "ni5iAc/rSd4",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/b3sPBQAAQBAJ",
+        "id": "7yyUswEACAAJ",
+        "etag": "XsD/liBiJGM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/7yyUswEACAAJ",
         "volumeInfo": {
-            "title": "The Enchanted Charms (Geronimo Stilton and the Kingdom of Fantasy #7)",
+            "title": "Harry Potter - The Illustrated Collection",
             "authors": [
-                "Geronimo Stilton"
+                "J. K. Rowling"
             ],
-            "publisher": "Scholastic Inc.",
-            "publishedDate": "2015-06-30",
-            "description": "Geronimo's seventh quest in the Kingdom of Fantasy! I, Geronimo Stilton, was so excited to find myself in the Kingdom of Fantasy for a seventh time. Blossom, Queen of the Fairies, needed me to find the seven enchanted charms before the Wizard of the Black Pearl could get to them!Seven guardians across the realm protected each charm. When combined, the charms would bring enormouse power -- which the evil wizard was after. Squeak! Could I survive the dangers of new kingdoms and mysterious creatures to find the charms and save the Kingdom of Fantasy? I was up for the challenge!",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9780545747677"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "0545747678"
-                }
-            ],
-            "readingModes": {
-                "text": true,
-                "image": true
-            },
-            "pageCount": 324,
-            "printType": "BOOK",
-            "categories": [
-                "Juvenile Fiction"
-            ],
-            "averageRating": 4.5,
-            "ratingsCount": 6,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": true,
-            "contentVersion": "1.11.9.0.preview.3",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=b3sPBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=b3sPBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=b3sPBQAAQBAJ&printsec=frontcover&dq=geronimo&hl=&cd=8&source=gbs_api",
-            "infoLink": "https://play.google.com/store/books/details?id=b3sPBQAAQBAJ&source=gbs_api",
-            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b3sPBQAAQBAJ"
-        },
-        "saleInfo": {
-            "country": "IN",
-            "saleability": "FOR_SALE",
-            "isEbook": true,
-            "listPrice": {
-                "amount": 2016.24,
-                "currencyCode": "INR"
-            },
-            "retailPrice": {
-                "amount": 2016.24,
-                "currencyCode": "INR"
-            },
-            "buyLink": "https://play.google.com/store/books/details?id=b3sPBQAAQBAJ&rdid=book-b3sPBQAAQBAJ&rdot=1&source=gbs_api",
-            "offers": [
-                {
-                    "finskyOfferType": 1,
-                    "listPrice": {
-                        "amountInMicros": 2016240000,
-                        "currencyCode": "INR"
-                    },
-                    "retailPrice": {
-                        "amountInMicros": 2016240000,
-                        "currencyCode": "INR"
-                    }
-                }
-            ]
-        },
-        "accessInfo": {
-            "country": "IN",
-            "viewability": "PARTIAL",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/The_Enchanted_Charms_Geronimo_Stilton_an-sample-epub.acsm?id=b3sPBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "pdf": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/The_Enchanted_Charms_Geronimo_Stilton_an-sample-pdf.acsm?id=b3sPBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=b3sPBQAAQBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Geronimo&#39;s seventh quest in the Kingdom of Fantasy! I, Geronimo Stilton, was so excited to find myself in the Kingdom of Fantasy for a seventh time."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "GAqqNvA_HSYC",
-        "etag": "Him4F4TUvwY",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/GAqqNvA_HSYC",
-        "volumeInfo": {
-            "title": "Mighty Mount Kilimanjaro",
-            "subtitle": "",
-            "authors": [
-                "Geronimo Stilton",
-                "Silvia Bigolin"
-            ],
-            "publisher": "Scholastic Inc.",
-            "publishedDate": "2010",
-            "description": "Reading level: RL 3 ; Ages: 7-10.",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9780545103718"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "0545103711"
-                }
-            ],
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 130,
-            "printType": "BOOK",
-            "categories": [
-                "Juvenile Fiction"
-            ],
-            "averageRating": 4,
-            "ratingsCount": 4,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.2.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=GAqqNvA_HSYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=GAqqNvA_HSYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=GAqqNvA_HSYC&printsec=frontcover&dq=geronimo&hl=&cd=2&source=gbs_api",
-            "infoLink": "http://books.google.co.in/books?id=GAqqNvA_HSYC&dq=geronimo&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Mighty_Mount_Kilimanjaro.html?hl=&id=GAqqNvA_HSYC"
-        },
-        "saleInfo": {
-            "country": "IN",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "IN",
-            "viewability": "PARTIAL",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Mighty_Mount_Kilimanjaro-sample-pdf.acsm?id=GAqqNvA_HSYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=GAqqNvA_HSYC&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Reading level: RL 3 ; Ages: 7-10."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "C-MQDAAAQBAJ",
-        "etag": "ZAPseisuoSo",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/C-MQDAAAQBAJ",
-        "volumeInfo": {
-            "title": "Magical Mission (Geronimo Stilton #64)",
-            "authors": [
-                "Geronimo Stilton"
-            ],
-            "publisher": "Scholastic Inc.",
-            "publishedDate": "2016-10-11",
-            "description": "When you're with Geronimo Stilton, it's always a fabumouse adventure! I was traveling to London, England on a secret mission! I had to investigate some strange occurrences -- someone was trying to get their paws on the crown jewels! Trap came along, too, to compete in a big magic show. And before I could solve my mystery, Trap needed my help... to perform an impossible magic trick. Could I do it all? Squeak!",
-            "industryIdentifiers": [
-                {
-                    "type": "ISBN_13",
-                    "identifier": "9781338035483"
-                },
-                {
-                    "type": "ISBN_10",
-                    "identifier": "1338035487"
-                }
-            ],
-            "readingModes": {
-                "text": true,
-                "image": true
-            },
-            "pageCount": 132,
-            "printType": "BOOK",
-            "categories": [
-                "Juvenile Fiction"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": true,
-            "contentVersion": "1.8.6.0.preview.3",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=C-MQDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=C-MQDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=C-MQDAAAQBAJ&printsec=frontcover&dq=geronimo&hl=&cd=11&source=gbs_api",
-            "infoLink": "https://play.google.com/store/books/details?id=C-MQDAAAQBAJ&source=gbs_api",
-            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C-MQDAAAQBAJ"
-        },
-        "saleInfo": {
-            "country": "IN",
-            "saleability": "FOR_SALE",
-            "isEbook": true,
-            "listPrice": {
-                "amount": 805.98,
-                "currencyCode": "INR"
-            },
-            "retailPrice": {
-                "amount": 402.99,
-                "currencyCode": "INR"
-            },
-            "buyLink": "https://play.google.com/store/books/details?id=C-MQDAAAQBAJ&rdid=book-C-MQDAAAQBAJ&rdot=1&source=gbs_api",
-            "offers": [
-                {
-                    "finskyOfferType": 1,
-                    "listPrice": {
-                        "amountInMicros": 805980000,
-                        "currencyCode": "INR"
-                    },
-                    "retailPrice": {
-                        "amountInMicros": 402990000,
-                        "currencyCode": "INR"
-                    }
-                }
-            ]
-        },
-        "accessInfo": {
-            "country": "IN",
-            "viewability": "PARTIAL",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Magical_Mission_Geronimo_Stilton_64-sample-epub.acsm?id=C-MQDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "pdf": {
-                "isAvailable": true,
-                "acsTokenLink": "http://books.google.co.in/books/download/Magical_Mission_Geronimo_Stilton_64-sample-pdf.acsm?id=C-MQDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=C-MQDAAAQBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "When you&#39;re with Geronimo Stilton, it&#39;s always a fabumouse adventure!"
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "A6A8MgAACAAJ",
-        "etag": "tXPx0p8666I",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/A6A8MgAACAAJ",
-        "volumeInfo": {
-            "title": "Field Trip to Niagara Falls",
-            "subtitle": "",
-            "authors": [
-                "Geronimo Stilton"
-            ],
-            "publisher": "Perfection Learning",
-            "publishedDate": "2006-03",
-            "description": "Holey cheese, what an adventure! I was off to Niagara Falls with my nephew Benjamin's class. It was a beautiful place -- truly one of the most amazing sights I'd ever seen. But unfortunately, I was surrounded by mischievous young mouselets who were determined send me over the Falls in a barrel! Oh, would I ever make it back to Mouse Island alive?",
+            "publisher": "Bloomsbury Publishing",
+            "publishedDate": "2017-11-16",
             "industryIdentifiers": [
                 {
                     "type": "ISBN_10",
-                    "identifier": "0756969417"
+                    "identifier": "1408897318"
                 },
                 {
                     "type": "ISBN_13",
-                    "identifier": "9780756969417"
+                    "identifier": "9781408897317"
                 }
             ],
             "readingModes": {
                 "text": false,
                 "image": false
             },
-            "pageCount": 0,
             "printType": "BOOK",
-            "categories": [
-                "Animals"
-            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
             "contentVersion": "preview-1.0.0",
@@ -314,13 +36,13 @@
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=A6A8MgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=A6A8MgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=7yyUswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=7yyUswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.co.in/books?id=A6A8MgAACAAJ&dq=geronimo&hl=&cd=10&source=gbs_api",
-            "infoLink": "http://books.google.co.in/books?id=A6A8MgAACAAJ&dq=geronimo&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Field_Trip_to_Niagara_Falls.html?hl=&id=A6A8MgAACAAJ"
+            "previewLink": "http://books.google.co.in/books?id=7yyUswEACAAJ&dq=harry+potter&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=7yyUswEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_The_Illustrated_Collection.html?hl=&id=7yyUswEACAAJ"
         },
         "saleInfo": {
             "country": "IN",
@@ -339,12 +61,629 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=A6A8MgAACAAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=7yyUswEACAAJ&hl=&source=gbs_api",
             "accessViewStatus": "NONE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "Holey cheese, what an adventure!"
+            "textSnippet": "This illustrated collection is the beginning of an amazing magical adventure and the perfect gift for Harry Potter fans of any age."
         }
+    },
+    {
+        "kind": "books#volume",
+        "id": "iNkCAAAAMBAJ",
+        "etag": "Y90lanudcHc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iNkCAAAAMBAJ",
+        "volumeInfo": {
+            "title": "New York Magazine",
+            "publishedDate": "1968-04-29",
+            "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 64,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iNkCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iNkCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=iNkCAAAAMBAJ&printsec=frontcover&dq=new&hl=&cd=2&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=iNkCAAAAMBAJ&dq=new&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=iNkCAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=iNkCAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "7yyUswEACAAJ",
+        "etag": "pzInzsdvg4s",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/7yyUswEACAAJ",
+        "volumeInfo": {
+            "title": "Harry Potter - The Illustrated Collection",
+            "authors": [
+                "J. K. Rowling"
+            ],
+            "publisher": "Bloomsbury Publishing",
+            "publishedDate": "2017-11-16",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1408897318"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781408897317"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "printType": "BOOK",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=7yyUswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=7yyUswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=7yyUswEACAAJ&dq=harry+potter&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=7yyUswEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_The_Illustrated_Collection.html?hl=&id=7yyUswEACAAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=7yyUswEACAAJ&hl=&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "This illustrated collection is the beginning of an amazing magical adventure and the perfect gift for Harry Potter fans of any age."
+        },
+        "bookMarked": false
+    },
+    {
+        "kind": "books#volume",
+        "id": "vWB6vAEACAAJ",
+        "etag": "pQlhnNG3P20",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vWB6vAEACAAJ",
+        "volumeInfo": {
+            "title": "Harry Potter and the Chamber of Secrets (Book 2)",
+            "subtitle": "",
+            "authors": [
+                "Rowling, J.K."
+            ],
+            "publisher": "Pottermore",
+            "publishedDate": "2015-01-16",
+            "description": "In Harry Potter and the Chamber of Secrets, the summer after Harry’s first year at Hogwarts has been his worst summer ever… the Dursleys more distant and horrible than ever before. But just as he’s packing his bags to return to school, a creature named Dobby the house-elf announces that if Harry goes back to Hogwarts, disaster will strike. And it turns out, Dobby is right. Harry and Ron miss the Hogwarts Express, so they fly to school in a blue Ford Anglia, crash landing in the notorious Whomping Willow. Soon other worries accumulate: the outrageously stuck-up new professor Gilderoy Lockhart; a ghost named Moaning Myrtle, who haunts the girls' bathroom; the strange behavior of Ron's little sister, Ginny Weasley; rumors about the \"Chamber of Secrets,\" a cavern buried deep below Hogwarts; and a magical diary owned by Tom Riddle, a Hogwarts student of long ago. Harry is also shocked to discover that he can speak Parseltongue, the language of snakes - a rare ability that Lord Voldemort also possessed - and that anti-Muggle prejudice exists in the Wizarding world, even affecting Harry's friend Hermione. But all of these seem like minor concerns when someone starts turning Hogwarts students to stone: an evildoer said to be the fearsome Heir of Salazar Slytherin, on of the founders of the school. Could it be Draco Malfoy, Harry's most poisonous rival? Could it be Hagrid whose mysterious past is finally told? Or could it be the one person everyone at Hogwarts most suspects: Harry Potter himself?",
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Fiction"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.2",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=vWB6vAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vWB6vAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "es",
+            "previewLink": "http://books.google.co.in/books?id=vWB6vAEACAAJ&dq=harry+potter&hl=&cd=7&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=vWB6vAEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Chamber_of_Secrets.html?hl=&id=vWB6vAEACAAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=vWB6vAEACAAJ&hl=&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Tras de derrotar una vez mas a lord Voldemort, su siniestro enemigo en Harry Potter y la piedra filosofal, Harry espera impaciente en casa de sus insopotrtables tios el inicio del segundo curso del Colegio Hogwarts de Magia y Hechiceria.Sin ..."
+        },
+        "bookMarked": false
+    },
+    {
+        "kind": "books#volume",
+        "id": "nSwKEAAAQBAJ",
+        "etag": "0pE3pR9HCv4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nSwKEAAAQBAJ",
+        "volumeInfo": {
+            "title": "The Promises We Made",
+            "authors": [
+                "Rohan Jain"
+            ],
+            "publisher": "Sristhi Publishers & Distributors",
+            "publishedDate": "2020-12-08",
+            "description": "Raj can’t believe his luck when he gets selected for a summer internship in Switzerland. He had always dreamed of travelling, and this was his chance to explore the world. During this internship, he crosses paths with Sofia, a German student studying in Switzerland. Little did he know that this chance encounter will alter the course of his life forever. Raj finds himself falling in love with Sofia. But as their time together in Switzerland nears an end, Raj finds himself torn between the desire to confess his feelings to Sofia and the fear of losing her. Will Raj be able to tell Sofia how he feels? Will they be able to sustain a love spanning across cultural and geographical boundaries? The Promises We Made recounts the journey of two people falling in love in the most unexpected of circumstances. But destiny had something else in store – a dark twist of events that leaves the reader lamenting the vagaries of fate.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9789390441051"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "9390441056"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 163,
+            "printType": "BOOK",
+            "categories": [
+                "Fiction"
+            ],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.2.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=nSwKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=nSwKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=nSwKEAAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=8&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=nSwKEAAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nSwKEAAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 171.1,
+                "currencyCode": "INR"
+            },
+            "retailPrice": {
+                "amount": 119.77,
+                "currencyCode": "INR"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=nSwKEAAAQBAJ&rdid=book-nSwKEAAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 171100000,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 119770000,
+                        "currencyCode": "INR"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Promises_We_Made-sample-epub.acsm?id=nSwKEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Promises_We_Made-sample-pdf.acsm?id=nSwKEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=nSwKEAAAQBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Will they be able to sustain a love spanning across cultural and geographical boundaries? The Promises We Made recounts the journey of two people falling in love in the most unexpected of circumstances."
+        },
+        "bookMarked": false
+    },
+    {
+        "kind": "books#volume",
+        "id": "lJB5DwAAQBAJ",
+        "etag": "qe3U23a5TZI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/lJB5DwAAQBAJ",
+        "volumeInfo": {
+            "title": "The Ultimate Harry Potter and Philosophy",
+            "subtitle": "Hogwarts for Muggles",
+            "authors": [
+                "William Irwin",
+                "Gregory Bassham"
+            ],
+            "publisher": "John Wiley & Sons",
+            "publishedDate": "2010-09-14",
+            "description": "A philosophical exploration of the entire seven-book Harry Potter series Harry Potter has been heralded as one of the most popular book series of all time and the philosophical nature of Harry, Hermione, and Ron's quest to rid the world of its ultimate evil is one of the many things that make this series special. The Ultimate Harry Potter and Philosophy covers all seven titles in J.K. Rowling's groundbreaking series and takes fans back to Godric's Hollow to discuss life after death, to consider what moral reasoning drove Harry to choose death, and to debate whether Sirius Black is a man or a dog. With publication timed to coincide with the release of the movie Harry Potter and the Deathly Hallows (Part 1), this book will be the definitive guide for all fans looking to appreciate the series on a deeper level. Covers a range of intriguing topics such as the redemption of Severus Snape, the power of love, and destiny in the wizarding world Gives you a new perspective on Harry Potter characters, plot lines, and themes Makes a perfect companion to the Harry Potter books and movies Packed with interesting ideas and insights, The Ultimate Harry Potter and Philosophy is an ideal companion for anyone interested in unraveling the subtext and exploring the greater issues at work in the story.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780470398258"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0470398256"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 311,
+            "printType": "BOOK",
+            "categories": [
+                "Philosophy"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.4.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=lJB5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=lJB5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=lJB5DwAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=9&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=lJB5DwAAQBAJ&dq=harry+potter&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Ultimate_Harry_Potter_and_Philosophy.html?hl=&id=lJB5DwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Ultimate_Harry_Potter_and_Philosophy-sample-pdf.acsm?id=lJB5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=lJB5DwAAQBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "A philosophical exploration of the entire seven-book Harry Potter series Harry Potter has been heralded as one of the most popular book series of all time and the philosophical nature of Harry, Hermione, and Ron&#39;s quest to rid the world of ..."
+        },
+        "bookMarked": false
+    },
+    {
+        "kind": "books#volume",
+        "id": "DKcWE3WXoj8C",
+        "etag": "HEvx4bdLb4A",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/DKcWE3WXoj8C",
+        "volumeInfo": {
+            "title": "Harry Potter and International Relations",
+            "authors": [
+                "Daniel H. Nexon",
+                "Iver B. Neumann"
+            ],
+            "publisher": "Rowman & Littlefield",
+            "publishedDate": "2006",
+            "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0742539598"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780742539594"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 262,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Fiction"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 8,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.4.4.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=DKcWE3WXoj8C&pg=PA50&dq=harry+potter&hl=&cd=10&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=DKcWE3WXoj8C&dq=harry+potter&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_International_Relations.html?hl=&id=DKcWE3WXoj8C"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/Harry_Potter_and_International_Relations-sample-pdf.acsm?id=DKcWE3WXoj8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=DKcWE3WXoj8C&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "... <b>Harry Potter</b> discussions jumping back and forth between two lan- guages , with magical objects and character names generally appearing in English . 1+ These relatively minor verbal modifications made as the text of each <b>Harry Potter</b>&nbsp;..."
+        },
+        "bookMarked": false
+    },
+    {
+        "kind": "books#volume",
+        "id": "BoX-6R21MgQC",
+        "etag": "Y5vxHiI6OTo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/BoX-6R21MgQC",
+        "volumeInfo": {
+            "title": "The Psychology of Harry Potter",
+            "subtitle": "An Unauthorized Examination Of The Boy Who Lived",
+            "authors": [
+                "Neil Mulholland"
+            ],
+            "publisher": "BenBella Books, Inc.",
+            "publishedDate": "2007-04-10",
+            "description": "Harry Potter has provided a portal to the wizarding world for millions of readers, but an examination of Harry, his friends and his enemies will take us on yet another journey: through the psyche of the Muggle (and wizard!) mind. The twists and turns of the series, as well as the psychological depth and complexity of J. K. Rowling’s characters, have kept fans enthralled with and puzzling over the many mysteries that permeate Hogwarts and beyond: Do the Harry Potter books encourage disobedience? Why is everyone so fascinated by Professor Lupin? What exactly will Harry and his friends do when they finally pass those N.E.W.T.s? Do even wizards live by the ticking of the clock? Is Harry destined to end up alone? And why did it take Ron and Hermione so long to get together? Now, in The Psychology of Harry Potter, leading psychologists delve into the ultimate Chamber of Secrets, analyzing human mind and motivation by examining the themes and characters that make the Harry Potter books the bestselling fantasy series of all time. Grab a spot on the nearest couch, and settle in for some fresh revelations about our favorite young wizard!",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781935251378"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1935251376"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 338,
+            "printType": "BOOK",
+            "categories": [
+                "Literary Criticism"
+            ],
+            "averageRating": 3.5,
+            "ratingsCount": 4,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "2.5.6.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=BoX-6R21MgQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=BoX-6R21MgQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=BoX-6R21MgQC&printsec=frontcover&dq=harry+potter&hl=&cd=11&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=BoX-6R21MgQC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BoX-6R21MgQC"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 672.6,
+                "currencyCode": "INR"
+            },
+            "retailPrice": {
+                "amount": 336.3,
+                "currencyCode": "INR"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=BoX-6R21MgQC&rdid=book-BoX-6R21MgQC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 672600000,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 336300000,
+                        "currencyCode": "INR"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Psychology_of_Harry_Potter-sample-epub.acsm?id=BoX-6R21MgQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Psychology_of_Harry_Potter-sample-pdf.acsm?id=BoX-6R21MgQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=BoX-6R21MgQC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Now, in The Psychology of Harry Potter, leading psychologists delve into the ultimate Chamber of Secrets, analyzing human mind and motivation by examining the themes and characters that make the Harry Potter books the bestselling fantasy ..."
+        },
+        "bookMarked": false
+    },
+    {
+        "kind": "books#volume",
+        "id": "wHlDzHnt6x0C",
+        "etag": "VbAgFEqEnVk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wHlDzHnt6x0C",
+        "volumeInfo": {
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "authors": [
+                "J.K. Rowling"
+            ],
+            "publisher": "Pottermore Publishing",
+            "publishedDate": "2015-12-08",
+            "description": "'Welcome to the Knight Bus, emergency transport for the stranded witch or wizard. Just stick out your wand hand, step on board and we can take you anywhere you want to go.' When the Knight Bus crashes through the darkness and screeches to a halt in front of him, it's the start of another far from ordinary year at Hogwarts for Harry Potter. Sirius Black, escaped mass-murderer and follower of Lord Voldemort, is on the run - and they say he is coming after Harry. In his first ever Divination class, Professor Trelawney sees an omen of death in Harry's tea leaves... But perhaps most terrifying of all are the Dementors patrolling the school grounds, with their soul-sucking kiss... Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781781100233"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1781100233"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 444,
+            "printType": "BOOK",
+            "categories": [
+                "Juvenile Fiction"
+            ],
+            "averageRating": 4.5,
+            "ratingsCount": 50,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "2.22.22.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=wHlDzHnt6x0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=wHlDzHnt6x0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=wHlDzHnt6x0C&dq=harry+potter&hl=&cd=12&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=wHlDzHnt6x0C&dq=harry+potter&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Prisoner_of_Azkaban.html?hl=&id=wHlDzHnt6x0C"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true
+            },
+            "pdf": {
+                "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=wHlDzHnt6x0C&hl=&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers."
+        },
+        "bookMarked": false
     }
 ]
